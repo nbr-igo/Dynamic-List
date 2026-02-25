@@ -10,10 +10,12 @@ Users can add, remove, and search stored items through a graphical interface bui
 - **GUI.java (View + Controller)**  <br>
   Displays items and handles user interaction.<br>
 
+- **Administrator.java (View + Controller)**  <br>
+  Displays items and handles user interaction through the terminal.<br>
+
 - **Main.java**  <br>
   Entry point that launches the application.<br>
 
----
 
 ## ✨ Features<br>
 
