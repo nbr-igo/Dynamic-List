@@ -29,7 +29,7 @@ public class Administrator{
         while (true) {
             System.out.println("Search:1 , Add:2 , Update:3 , Remove:4 , Print:5");
             int operation = scanner.nextInt();
-            scanner.nextLine();// Clear newline from buffer
+            scanner.nextLine(); // Clear newline from buffer
 
             if (operation == 1) {
                 System.out.println("");
